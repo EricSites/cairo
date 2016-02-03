@@ -1,4 +1,4 @@
-class Cairo < Formula
+class CairoNew < Formula
   desc "Vector graphics library with cross-device output support"
   homepage "http://cairographics.org/"
   url "http://cairographics.org/snapshots/cairo-1.15.2.tar.xz"
